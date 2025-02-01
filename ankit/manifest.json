@@ -1,6 +1,6 @@
 
 {
-    "name": "Todo PWA",
+    "name": "todo-pwa",
     "short_name": "Todo",
     "start_url": "/",
     "display": "standalone",
